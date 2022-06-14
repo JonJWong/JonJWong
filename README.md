@@ -1,6 +1,5 @@
 Hey! My name is Jonathan Wong, I'm a retail salesman turned software developer, looking to improve the world one line of code at a time.
 
-- 🔭 Recently graduated from AppAcademy, looking for work as a full-stack developer.
 - 🌱 I’m currently learning Python and Lua!
 - 💬 Ask me about Arcade Games, my community (DDR / ITG)!
 - 📫 How to reach me: wongjonathan01@gmail.com.
@@ -30,6 +29,7 @@ Past projects:
 
 Here are some ideas to get you started:
 
+- 🔭 Recently graduated from AppAcademy, looking for work as a full-stack developer.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
