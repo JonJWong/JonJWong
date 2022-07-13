@@ -4,7 +4,7 @@ Hey! My name is Jonathan Wong, I'm a retail salesman turned software developer, 
 - 💬 Ask me about Arcade Games, my community (DDR / ITG)!
 - 📫 How to reach me: wongjonathan01@gmail.com.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I'm top 15 in the world for my subset/category in dance games!
+- ⚡ Fun fact: I'm one of the best in the world at my dance game!
 
 Past projects:
 
