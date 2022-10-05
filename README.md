@@ -1,6 +1,6 @@
-Hey! My name is Jonathan Wong, I'm a retail salesman turned software developer, looking to improve the world one line of code at a time.
+Hey! My name is Jonathan Wong, I'm a Frontend Developer at Verbal+Visual, looking to improve the world one line of code at a time.
 
-- 🌱 I’m currently learning Python and Lua!
+- 🌱 I’m currently learning Python, TypeScript and Lua!
 - 💬 Ask me about Arcade Games, my community (DDR / ITG)!
 - 📫 How to reach me: wongjonathan01@gmail.com.
 - 😄 Pronouns: He/Him.
