@@ -13,7 +13,7 @@ Past projects:
   <img src="https://media.giphy.com/media/DmZpv2ljRn4ExgZeni/giphy.gif" alt="jwong-eats-gif"></img>
 </p>
 
-<a href="https://github.com/JonJWong/Hoppers" target="_blank" rel="noopener noreferrer" align="center">Hoppers</a> - A MERN stack collaboration with 3 other developers, where I was Project Lead / Frontend Designer.
+<a href="https://github.com/JonJWong/Hoppers" target="_blank" rel="noopener noreferrer" align="center">Hoppers</a> - A MERN stack collaboration with 3 other developers, where I was Project Lead / Frontend Developer.
 <p align="center">
   <img src="https://media.giphy.com/media/rb46Dl0AReltUxR5ED/giphy.gif" alt="hoppers-gif"></img>
 </p>
