@@ -1,6 +1,6 @@
 Hey! My name is Jonathan Wong, I'm a software engineer looking to improve the world one line of code at a time.
 
-- 🌱 I’m currently learning Python, TypeScript and Lua!
+- 🌱 I’m currently getting more comfortable with Python, TypeScript and Lua!
 - 💬 Ask me about Arcade Games, my community (DDR / ITG)!
 - 📫 How to reach me: wongjonathan01@gmail.com.
 - 😄 Pronouns: He/Him.
